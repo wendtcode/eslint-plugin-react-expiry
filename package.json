@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-react-expiry",
+  "version": "1.0.0",
+  "description": "Custom ESLint rules for react-expiry",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "react-expiry"
+  ],
+  "peerDependencies": {
+    "eslint": "8.x, 9.x"
+  }
+}
