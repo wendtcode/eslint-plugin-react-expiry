@@ -1,7 +1,15 @@
 {
   "name": "eslint-plugin-react-expiry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom ESLint rules for react-expiry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wendtcode/eslint-plugin-react-expiry"
+  },
+  "homepage": "https://github.com/wendtcode/eslint-plugin-react-expiry#readme",
+  "bugs": {
+    "url": "https://github.com/wendtcode/eslint-plugin-react-expiry/issues"
+  },
   "main": "index.js",
   "keywords": [
     "eslint",
